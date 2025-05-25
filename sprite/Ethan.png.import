@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dh6611trylegp"
-path="res://.godot/imported/triangle_sdf.png-43f45e6aa6457877e53f941897eb32ba.ctex"
+path="res://.godot/imported/Ethan.png-a82c0db0e02290088c2126015d046291.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprite/triangle_sdf.png"
-dest_files=["res://.godot/imported/triangle_sdf.png-43f45e6aa6457877e53f941897eb32ba.ctex"]
+source_file="res://sprite/Ethan.png"
+dest_files=["res://.godot/imported/Ethan.png-a82c0db0e02290088c2126015d046291.ctex"]
 
 [params]
 
