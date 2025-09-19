@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dhrtpcspd6nt"
-path="res://.godot/imported/citoyen_Trist.png-3d03bdd0abb8ff36ca2e196c3f1dc20f.ctex"
+uid="uid://d3gs7amsy5dme"
+path="res://.godot/imported/maigrichon.png-7ddf3553c8215e9ab45d532d305a338b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprite/citoyen_Trist.png"
-dest_files=["res://.godot/imported/citoyen_Trist.png-3d03bdd0abb8ff36ca2e196c3f1dc20f.ctex"]
+source_file="res://sprite/maigrichon.png"
+dest_files=["res://.godot/imported/maigrichon.png-7ddf3553c8215e9ab45d532d305a338b.ctex"]
 
 [params]
 

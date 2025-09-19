@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dhrtpcspd6nt"
-path="res://.godot/imported/citoyen_Trist.png-3d03bdd0abb8ff36ca2e196c3f1dc20f.ctex"
+uid="uid://coqxs012dfbhp"
+path="res://.godot/imported/Tashbet.png-fdbd0406913f16b7546e499de441bd20.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprite/citoyen_Trist.png"
-dest_files=["res://.godot/imported/citoyen_Trist.png-3d03bdd0abb8ff36ca2e196c3f1dc20f.ctex"]
+source_file="res://sprite/Brouillon/Tashbet.png"
+dest_files=["res://.godot/imported/Tashbet.png-fdbd0406913f16b7546e499de441bd20.ctex"]
 
 [params]
 

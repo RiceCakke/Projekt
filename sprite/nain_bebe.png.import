@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dhrtpcspd6nt"
-path="res://.godot/imported/citoyen_Trist.png-3d03bdd0abb8ff36ca2e196c3f1dc20f.ctex"
+uid="uid://ontlvfnmtifl"
+path="res://.godot/imported/nain_bebe.png-9ff939321aaf2a78124fd5d37692270f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprite/citoyen_Trist.png"
-dest_files=["res://.godot/imported/citoyen_Trist.png-3d03bdd0abb8ff36ca2e196c3f1dc20f.ctex"]
+source_file="res://sprite/nain_bebe.png"
+dest_files=["res://.godot/imported/nain_bebe.png-9ff939321aaf2a78124fd5d37692270f.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dhrtpcspd6nt"
-path="res://.godot/imported/citoyen_Trist.png-3d03bdd0abb8ff36ca2e196c3f1dc20f.ctex"
+uid="uid://cwmme4spraex8"
+path="res://.godot/imported/etricure_clement_16x.png-d6f1e84eca66cd06ed6e53f28bf279b3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprite/citoyen_Trist.png"
-dest_files=["res://.godot/imported/citoyen_Trist.png-3d03bdd0abb8ff36ca2e196c3f1dc20f.ctex"]
+source_file="res://sprite/Brouillon/etricure_clement_16x.png"
+dest_files=["res://.godot/imported/etricure_clement_16x.png-d6f1e84eca66cd06ed6e53f28bf279b3.ctex"]
 
 [params]
 
