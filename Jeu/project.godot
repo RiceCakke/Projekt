@@ -10,9 +10,21 @@ config_version=5
 
 [application]
 
-config/name="Nouveau projet de jeu"
+config/name="Garbanzo"
+run/main_scene="uid://u3sm20jpuxsy"
 config/features=PackedStringArray("4.4", "Mobile")
 config/icon="res://icon.svg"
+
+[dotnet]
+
+project/assembly_name="Garbanzo"
+
+[input]
+
+mouvement={
+"deadzone": 0.2,
+"events": []
+}
 
 [rendering]
 

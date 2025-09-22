@@ -1,0 +1,21 @@
+[gd_scene load_steps=4 format=3 uid="uid://u3sm20jpuxsy"]
+
+[ext_resource type="Script" uid="uid://bt5ij5sdycu6i" path="res://scenes/clement_script.gd" id="1_2rrw2"]
+[ext_resource type="Texture2D" uid="uid://ctgiljd82ewmg" path="res://sprite/clement.png" id="2_2rrw2"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_2rrw2"]
+size = Vector2(21, 26)
+
+[node name="Node2D" type="Node2D"]
+position = Vector2(261, 167)
+
+[node name="CharacterBody2D" type="CharacterBody2D" parent="."]
+script = ExtResource("1_2rrw2")
+
+[node name="Clement" type="Sprite2D" parent="CharacterBody2D"]
+texture_filter = 1
+texture = ExtResource("2_2rrw2")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="CharacterBody2D"]
+position = Vector2(0.5, 3)
+shape = SubResource("RectangleShape2D_2rrw2")
